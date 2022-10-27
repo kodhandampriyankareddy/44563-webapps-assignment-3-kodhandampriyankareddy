@@ -1,6 +1,6 @@
 {
   "name": "f2wa70kodhandam",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "private": true,
   "scripts": {
     "start": "node ./bin/www"
@@ -13,11 +13,19 @@
     "morgan": "^1.10.0",
     "pug": "^3.0.2"
   },
+  "description": "my repo",
   "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kodhandampriyankareddy/44563-webapps-assignment-3-kodhandampriyankareddy.git"
+  },
   "keywords": [
     "9652"
   ],
-  "author": "kodhandampriyanka",
+  "author": "Priyanka kodhandam",
   "license": "ISC",
-  "description": ""
+  "bugs": {
+    "url": "https://github.com/kodhandampriyankareddy/44563-webapps-assignment-3-kodhandampriyankareddy/issues"
+  },
+  "homepage": "https://github.com/kodhandampriyankareddy/44563-webapps-assignment-3-kodhandampriyankareddy#readme"
 }
