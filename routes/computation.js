@@ -20,4 +20,4 @@ router.get('/', function(req, res, next) {
   res.render('computation', { title: 'Express',x:x,d:d,e:e,f:f});
 });
 
-module.experts.router;
+module.exports =router;
